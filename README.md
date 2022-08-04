@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pawel-Szczygiel
-- 👀 I’m interested in front-end 
-- 🌱 I’m currently learning javascript React PHP
+- 👀 I’m interested in front-end web development
+- 🌱 I’m currently learning javascript React
 - 📫 How to reach me just write to me my email pawel86szczygiel@gmail.com
 
 <!---
