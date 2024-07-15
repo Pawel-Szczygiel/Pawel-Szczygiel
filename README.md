@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Pawel-Szczygiel
-- 👀 I’m interested in full-stack web development
+- 👀 I’m interested in frontend web development
 - 🌱 I’m currently learning more [ javascript, React, node, express, ...etc ]
 - 📫 How to reach me just write to me my email pawel86szczygiel@gmail.com
 
